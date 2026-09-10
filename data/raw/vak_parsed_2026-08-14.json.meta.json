@@ -1,0 +1,10 @@
+{
+  "kind": "derived",
+  "input": "vak_2026-08-14.pdf",
+  "source_sha256": "177c13a0f0bb2722e6fb96aaca1ba6f714fcf57784478ddf6bdbce5bacbbb324",
+  "sha256": "f9e9be4d34ee3e57efff360b3dfe666544a5833b34908989cd097cc620a4a4bb",
+  "generated_at": "2026-09-10T06:35:38.760142+00:00",
+  "parser": "sciagg.providers.vak_pdf.parse_vak_pdf",
+  "accepted": 3202,
+  "rejected": 27
+}

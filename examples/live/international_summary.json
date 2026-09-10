@@ -1,0 +1,57 @@
+{
+  "validation_run_at": "2026-09-10T06:30:52.711406+00:00",
+  "authors": [
+    {
+      "query": "Jorge Hirsch",
+      "id": "https://openalex.org/A5036688434",
+      "name": "J. E. Hirsch",
+      "retrieved_at": "2026-09-10T06:30:53.213291+00:00",
+      "sample_count": 3,
+      "source_reported_total": 384,
+      "sample_complete": false
+    },
+    {
+      "query": "Konstantin Novoselov",
+      "id": "https://openalex.org/A5072248970",
+      "name": "Kostya S. Novoselov",
+      "retrieved_at": "2026-09-10T06:30:55.173111+00:00",
+      "sample_count": 3,
+      "source_reported_total": 842,
+      "sample_complete": false
+    },
+    {
+      "query": "Andre Geim",
+      "id": "https://openalex.org/A5058357018",
+      "name": "A. K. Geǐm",
+      "retrieved_at": "2026-09-10T06:30:57.263537+00:00",
+      "sample_count": 3,
+      "source_reported_total": 496,
+      "sample_complete": false
+    }
+  ],
+  "doi": "10.1073/pnas.0507655102",
+  "title": "An index to quantify an individual's scientific research output",
+  "crossref_citation_observation": [
+    {
+      "kind": "citation_count",
+      "value": 8736,
+      "source": "crossref",
+      "retrieved_at": "2026-09-10T06:30:59.077441+00:00",
+      "year": null,
+      "category": null,
+      "scope": "source"
+    }
+  ],
+  "openalex_citation_observation": [
+    {
+      "kind": "citation_count",
+      "value": 11697,
+      "source": "openalex",
+      "retrieved_at": "2026-09-10T06:30:59.448951+00:00",
+      "year": null,
+      "category": null,
+      "scope": "source"
+    }
+  ],
+  "warning": "Different citation providers and snapshots; do not sum these counts."
+}

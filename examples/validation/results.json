@@ -1,0 +1,91 @@
+{
+  "verified_at": "2026-09-10T07:00:08.847867+00:00",
+  "python": "3.12.14 (main, Sep  1 2026, 14:17:39) [MSC v.1944 64 bit (AMD64)]",
+  "checks": [
+    {
+      "name": "pytest",
+      "args": [
+        "-m",
+        "pytest",
+        "-q"
+      ],
+      "exit_code": 0,
+      "output_file": "pytest.txt"
+    },
+    {
+      "name": "ruff",
+      "args": [
+        "-m",
+        "ruff",
+        "check",
+        "src",
+        "tests",
+        "scripts"
+      ],
+      "exit_code": 0,
+      "output_file": "ruff.txt"
+    },
+    {
+      "name": "format",
+      "args": [
+        "-m",
+        "ruff",
+        "format",
+        "--check",
+        "src",
+        "tests",
+        "scripts"
+      ],
+      "exit_code": 0,
+      "output_file": "format.txt"
+    },
+    {
+      "name": "sources",
+      "args": [
+        "-m",
+        "sciagg",
+        "sources",
+        "--json"
+      ],
+      "exit_code": 0,
+      "output_file": "sources.txt"
+    },
+    {
+      "name": "h-index",
+      "args": [
+        "-m",
+        "sciagg",
+        "h-index",
+        "10",
+        "8",
+        "5",
+        "4",
+        "3",
+        "1",
+        "--json"
+      ],
+      "exit_code": 0,
+      "output_file": "h-index.txt"
+    },
+    {
+      "name": "demo",
+      "args": [
+        "-m",
+        "sciagg",
+        "demo"
+      ],
+      "exit_code": 0,
+      "output_file": "demo.txt"
+    },
+    {
+      "name": "raw-hashes",
+      "args": [
+        "scripts/rebuild_database.py",
+        "--verify-only",
+        "--use-validated-vak-json"
+      ],
+      "exit_code": 0,
+      "output_file": "raw-hashes.txt"
+    }
+  ]
+}

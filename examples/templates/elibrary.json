@@ -1,0 +1,16 @@
+[
+  {
+    "external_id": "SYNTHETIC-001",
+    "title": "Синтетический пример разрешённого импорта",
+    "year": 2025,
+    "doi": null,
+    "journal": "Синтетическое издание",
+    "issns": ["0000-0019"],
+    "authors": [
+      {"id": "SYNTHETIC-AUTHOR-001", "name": "Иванов Иван Иванович", "identifiers": {"elibrary": "SYNTHETIC-AUTHOR-001"}, "affiliations": ["Синтетическая организация"]}
+    ],
+    "citations": 3,
+    "retrieved_at": "2026-09-10T00:00:00+00:00",
+    "synthetic": true
+  }
+]

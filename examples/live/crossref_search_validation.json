@@ -1,0 +1,1227 @@
+{
+  "validation_run_at": "2026-09-10T06:32:08.431253+00:00",
+  "candidate_search": {
+    "items": [
+      {
+        "id": "crossref:10.20944/preprints202201.0003.v1#author-0",
+        "name": "Jorge Hirsch",
+        "identifiers": {},
+        "variants": [],
+        "affiliations": [],
+        "subjects": [],
+        "dois": [
+          "10.20944/preprints202201.0003.v1"
+        ],
+        "coauthors": [],
+        "metrics": [],
+        "provenance": [
+          {
+            "source": "crossref",
+            "external_id": "10.20944/preprints202201.0003.v1",
+            "url": "https://doi.org/10.20944/preprints202201.0003.v1",
+            "retrieved_at": "2026-09-10T06:32:07.295211+00:00",
+            "raw": {
+              "given": "Jorge",
+              "family": "Hirsch",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "crossref:10.20944/preprints202202.0005.v1#author-0",
+        "name": "Jorge Hirsch",
+        "identifiers": {},
+        "variants": [],
+        "affiliations": [],
+        "subjects": [],
+        "dois": [
+          "10.20944/preprints202202.0005.v1"
+        ],
+        "coauthors": [],
+        "metrics": [],
+        "provenance": [
+          {
+            "source": "crossref",
+            "external_id": "10.20944/preprints202202.0005.v1",
+            "url": "https://doi.org/10.20944/preprints202202.0005.v1",
+            "retrieved_at": "2026-09-10T06:32:07.295211+00:00",
+            "raw": {
+              "given": "Jorge",
+              "family": "Hirsch",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "crossref:10.1088/2058-7058/18/12/26#author-0",
+        "name": "Jorge Hirsch",
+        "identifiers": {},
+        "variants": [],
+        "affiliations": [],
+        "subjects": [],
+        "dois": [
+          "10.1088/2058-7058/18/12/26"
+        ],
+        "coauthors": [],
+        "metrics": [],
+        "provenance": [
+          {
+            "source": "crossref",
+            "external_id": "10.1088/2058-7058/18/12/26",
+            "url": "https://doi.org/10.1088/2058-7058/18/12/26",
+            "retrieved_at": "2026-09-10T06:32:07.295211+00:00",
+            "raw": {
+              "given": "Jorge",
+              "family": "Hirsch",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "total": null,
+    "complete": false,
+    "note": "Crossref возвращает авторские упоминания в работах, а не профили; требуется проверка."
+  },
+  "orcid_query": "0000-0001-7175-3497",
+  "publications": {
+    "items": [
+      {
+        "id": "crossref:10.1002/andp.201900212",
+        "title": "Defying Inertia: How Rotating Superconductors Generate Magnetic Fields",
+        "doi": "10.1002/andp.201900212",
+        "year": 2019,
+        "authors": [
+          {
+            "id": "crossref:10.1002/andp.201900212#author-0",
+            "name": "J. E. Hirsch",
+            "identifiers": {
+              "orcid": "0000-0001-7175-3497"
+            },
+            "variants": [],
+            "affiliations": [
+              "Department of Physics University of California San Diego La Jolla CA 92093‐0319 USA"
+            ],
+            "subjects": [],
+            "dois": [
+              "10.1002/andp.201900212"
+            ],
+            "coauthors": [],
+            "metrics": [],
+            "provenance": [
+              {
+                "source": "crossref",
+                "external_id": "10.1002/andp.201900212",
+                "url": "https://doi.org/10.1002/andp.201900212",
+                "retrieved_at": "2026-09-10T06:32:08.424246+00:00",
+                "raw": {
+                  "ORCID": "https://orcid.org/0000-0001-7175-3497",
+                  "authenticated-orcid": false,
+                  "given": "J. E.",
+                  "family": "Hirsch",
+                  "sequence": "first",
+                  "affiliation": [
+                    {
+                      "name": "Department of Physics University of California San Diego La Jolla CA 92093‐0319 USA"
+                    }
+                  ],
+                  "role": [
+                    {
+                      "vocabulary": "crossref",
+                      "role": "author"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "issns": [
+          "0003-3804",
+          "1521-3889"
+        ],
+        "journal": "Annalen der Physik",
+        "alternative_titles": [],
+        "source_ids": {
+          "crossref": "10.1002/andp.201900212"
+        },
+        "citations": [
+          {
+            "kind": "citation_count",
+            "value": 10,
+            "source": "crossref",
+            "retrieved_at": "2026-09-10T06:32:08.424246+00:00",
+            "year": null,
+            "category": null,
+            "scope": "source"
+          }
+        ],
+        "provenance": [
+          {
+            "source": "crossref",
+            "external_id": "10.1002/andp.201900212",
+            "url": "https://doi.org/10.1002/andp.201900212",
+            "retrieved_at": "2026-09-10T06:32:08.424246+00:00",
+            "raw": {
+              "indexed": {
+                "date-parts": [
+                  [
+                    2026,
+                    8,
+                    24
+                  ]
+                ],
+                "date-time": "2026-08-24T19:32:52Z",
+                "timestamp": 1787599972974,
+                "version": "build-2736575974"
+              },
+              "reference-count": 35,
+              "publisher": "Wiley",
+              "issue": "10",
+              "license": [
+                {
+                  "start": {
+                    "date-parts": [
+                      [
+                        2019,
+                        8,
+                        5
+                      ]
+                    ],
+                    "date-time": "2019-08-05T00:00:00Z",
+                    "timestamp": 1564963200000
+                  },
+                  "content-version": "vor",
+                  "delay-in-days": 0,
+                  "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+                }
+              ],
+              "content-domain": {
+                "domain": [
+                  "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+              },
+              "short-container-title": [
+                "Annalen der Physik"
+              ],
+              "published-print": {
+                "date-parts": [
+                  [
+                    2019,
+                    10
+                  ]
+                ]
+              },
+              "abstract": "<jats:title>Abstract</jats:title><jats:p>I discuss the process of magnetic field generation in rotating superconductors in simply connected and multiply connected geometries. In cooling a normal metal into the superconducting state while it is rotating, electrons slow down or speed up depending on the geometry and their location in the sample, apparently defying inertia. I argue that the conventional theory of superconductivity does not explain these processes. Instead, the theory of hole superconductivity does. Its predictions agree with experimental observations of Hendricks, King and Rohrschach for solid and hollow cylinders.</jats:p>",
+              "DOI": "10.1002/andp.201900212",
+              "type": "journal-article",
+              "created": {
+                "date-parts": [
+                  [
+                    2019,
+                    8,
+                    5
+                  ]
+                ],
+                "date-time": "2019-08-05T07:04:02Z",
+                "timestamp": 1564988642000
+              },
+              "update-policy": "https://doi.org/10.1002/crossmark_policy",
+              "source": "Crossref",
+              "is-referenced-by-count": 10,
+              "title": [
+                "Defying Inertia: How Rotating Superconductors Generate Magnetic Fields"
+              ],
+              "prefix": "10.1002",
+              "volume": "531",
+              "author": [
+                {
+                  "ORCID": "https://orcid.org/0000-0001-7175-3497",
+                  "authenticated-orcid": false,
+                  "given": "J. E.",
+                  "family": "Hirsch",
+                  "sequence": "first",
+                  "affiliation": [
+                    {
+                      "name": "Department of Physics University of California San Diego La Jolla CA 92093‐0319 USA"
+                    }
+                  ],
+                  "role": [
+                    {
+                      "vocabulary": "crossref",
+                      "role": "author"
+                    }
+                  ]
+                }
+              ],
+              "member": "311",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2019,
+                    8,
+                    5
+                  ]
+                ]
+              },
+              "reference": [
+                {
+                  "key": "e_1_2_13_1_1",
+                  "volume-title": "Superfluids",
+                  "author": "London F.",
+                  "year": "1961"
+                },
+                {
+                  "key": "e_1_2_13_2_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevLett.12.190"
+                },
+                {
+                  "key": "e_1_2_13_3_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRev.184.460"
+                },
+                {
+                  "key": "e_1_2_13_4_1",
+                  "first-page": "459",
+                  "volume-title": "Proc. 9th Int. Conf. Low Temperature Physics",
+                  "author": "Hildebrand A. F.",
+                  "year": "1965"
+                },
+                {
+                  "key": "e_1_2_13_5_1",
+                  "first-page": "471",
+                  "volume-title": "Proc. 9th Int. Conf. Low Temperature Physics",
+                  "author": "Bol M.",
+                  "year": "1965"
+                },
+                {
+                  "key": "e_1_2_13_6_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevLett.62.845"
+                },
+                {
+                  "key": "e_1_2_13_7_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1007/BF02570422"
+                },
+                {
+                  "key": "e_1_2_13_8_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1016/S0921-4526(09)80176-2"
+                },
+                {
+                  "key": "e_1_2_13_9_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1063/1.116622"
+                },
+                {
+                  "key": "e_1_2_13_10_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevB.68.012510"
+                },
+                {
+                  "key": "e_1_2_13_11_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1016/0921-4534(93)90667-F"
+                },
+                {
+                  "key": "e_1_2_13_12_1",
+                  "unstructured": "J. E.Hirsch arXiv:1605.09469 2016."
+                },
+                {
+                  "key": "e_1_2_13_13_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1007/BF00628392"
+                },
+                {
+                  "key": "e_1_2_13_14_1",
+                  "unstructured": "See references inhttp://physics.ucsd.edu/~jorge/hole.html"
+                },
+                {
+                  "key": "e_1_2_13_15_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1088/0031-8949/91/3/035801"
+                },
+                {
+                  "key": "e_1_2_13_16_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1007/BF01330324"
+                },
+                {
+                  "key": "e_1_2_13_17_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1007/s10948-009-0531-4"
+                },
+                {
+                  "key": "e_1_2_13_18_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1088/0031-8949/85/03/035704"
+                },
+                {
+                  "key": "e_1_2_13_19_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1016/j.physleta.2018.09.031"
+                },
+                {
+                  "key": "e_1_2_13_20_1",
+                  "unstructured": "The author is grateful to Kevin Smith for drawing this picture."
+                },
+                {
+                  "key": "e_1_2_13_21_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1209/0295-5075/81/67003"
+                },
+                {
+                  "key": "e_1_2_13_22_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1088/0953-8984/20/23/235233"
+                },
+                {
+                  "key": "e_1_2_13_23_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1016/j.jpcs.2005.10.011"
+                },
+                {
+                  "key": "e_1_2_13_24_1",
+                  "unstructured": "This behavior for a simply connected rotating superconductor was characterized as “quite absurd” by F. London in ref. [1] p. 82. One may wonder what level of absurdity London would have ascribed to the corresponding behavior in type II superconductors (Figure 11)."
+                },
+                {
+                  "key": "e_1_2_13_25_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevB.95.014503"
+                },
+                {
+                  "key": "e_1_2_13_26_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1142/S0217979218501588"
+                },
+                {
+                  "key": "e_1_2_13_27_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1142/S0217979211058766"
+                },
+                {
+                  "key": "e_1_2_13_28_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1209/0295-5075/114/57001"
+                },
+                {
+                  "key": "e_1_2_13_29_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1016/j.aop.2016.07.002"
+                },
+                {
+                  "key": "e_1_2_13_30_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1002/andp.200810298"
+                },
+                {
+                  "key": "e_1_2_13_31_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1209/0295-5075/113/37001"
+                },
+                {
+                  "key": "e_1_2_13_32_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevB.68.184502"
+                },
+                {
+                  "key": "e_1_2_13_33_1",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1142/S0217984910024730"
+                },
+                {
+                  "key": "e_1_2_13_33_2",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1016/j.physleta.2010.07.023"
+                },
+                {
+                  "key": "e_1_2_13_34_1",
+                  "unstructured": "As Einstein remarked “it would be sufficient to really understand the electron.”"
+                }
+              ],
+              "container-title": [
+                "Annalen der Physik"
+              ],
+              "language": "en",
+              "link": [
+                {
+                  "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/andp.201900212",
+                  "content-type": "application/pdf",
+                  "content-version": "vor",
+                  "intended-application": "text-mining"
+                },
+                {
+                  "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/andp.201900212",
+                  "content-type": "application/xml",
+                  "content-version": "vor",
+                  "intended-application": "text-mining"
+                },
+                {
+                  "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/andp.201900212",
+                  "content-type": "unspecified",
+                  "content-version": "vor",
+                  "intended-application": "similarity-checking"
+                }
+              ],
+              "deposited": {
+                "date-parts": [
+                  [
+                    2023,
+                    9,
+                    9
+                  ]
+                ],
+                "date-time": "2023-09-09T07:24:54Z",
+                "timestamp": 1694244294000
+              },
+              "score": 0.0,
+              "resource": {
+                "primary": {
+                  "URL": "https://onlinelibrary.wiley.com/doi/10.1002/andp.201900212"
+                }
+              },
+              "issued": {
+                "date-parts": [
+                  [
+                    2019,
+                    8,
+                    5
+                  ]
+                ]
+              },
+              "references-count": 35,
+              "journal-issue": {
+                "issue": "10",
+                "published-print": {
+                  "date-parts": [
+                    [
+                      2019,
+                      10
+                    ]
+                  ]
+                }
+              },
+              "alternative-id": [
+                "10.1002/andp.201900212"
+              ],
+              "URL": "https://doi.org/10.1002/andp.201900212",
+              "archive": [
+                "Portico"
+              ],
+              "ISSN": [
+                "0003-3804",
+                "1521-3889"
+              ],
+              "issn-type": [
+                {
+                  "value": "0003-3804",
+                  "type": "print"
+                },
+                {
+                  "value": "1521-3889",
+                  "type": "electronic"
+                }
+              ],
+              "published": {
+                "date-parts": [
+                  [
+                    2019,
+                    8,
+                    5
+                  ]
+                ]
+              },
+              "assertion": [
+                {
+                  "value": "2019-05-21",
+                  "order": 0,
+                  "name": "received",
+                  "label": "Received",
+                  "group": {
+                    "name": "publication_history",
+                    "label": "Publication History"
+                  }
+                },
+                {
+                  "value": "2019-08-05",
+                  "order": 2,
+                  "name": "published",
+                  "label": "Published",
+                  "group": {
+                    "name": "publication_history",
+                    "label": "Publication History"
+                  }
+                }
+              ],
+              "article-number": "1900212"
+            }
+          }
+        ],
+        "extra": {
+          "type": "journal-article",
+          "relations": {},
+          "references": [
+            {
+              "key": "e_1_2_13_1_1",
+              "volume-title": "Superfluids",
+              "author": "London F.",
+              "year": "1961"
+            },
+            {
+              "key": "e_1_2_13_2_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevLett.12.190"
+            },
+            {
+              "key": "e_1_2_13_3_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRev.184.460"
+            },
+            {
+              "key": "e_1_2_13_4_1",
+              "first-page": "459",
+              "volume-title": "Proc. 9th Int. Conf. Low Temperature Physics",
+              "author": "Hildebrand A. F.",
+              "year": "1965"
+            },
+            {
+              "key": "e_1_2_13_5_1",
+              "first-page": "471",
+              "volume-title": "Proc. 9th Int. Conf. Low Temperature Physics",
+              "author": "Bol M.",
+              "year": "1965"
+            },
+            {
+              "key": "e_1_2_13_6_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevLett.62.845"
+            },
+            {
+              "key": "e_1_2_13_7_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/BF02570422"
+            },
+            {
+              "key": "e_1_2_13_8_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0921-4526(09)80176-2"
+            },
+            {
+              "key": "e_1_2_13_9_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1063/1.116622"
+            },
+            {
+              "key": "e_1_2_13_10_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevB.68.012510"
+            },
+            {
+              "key": "e_1_2_13_11_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/0921-4534(93)90667-F"
+            },
+            {
+              "key": "e_1_2_13_12_1",
+              "unstructured": "J. E.Hirsch arXiv:1605.09469 2016."
+            },
+            {
+              "key": "e_1_2_13_13_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/BF00628392"
+            },
+            {
+              "key": "e_1_2_13_14_1",
+              "unstructured": "See references inhttp://physics.ucsd.edu/~jorge/hole.html"
+            },
+            {
+              "key": "e_1_2_13_15_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1088/0031-8949/91/3/035801"
+            },
+            {
+              "key": "e_1_2_13_16_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/BF01330324"
+            },
+            {
+              "key": "e_1_2_13_17_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s10948-009-0531-4"
+            },
+            {
+              "key": "e_1_2_13_18_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1088/0031-8949/85/03/035704"
+            },
+            {
+              "key": "e_1_2_13_19_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.physleta.2018.09.031"
+            },
+            {
+              "key": "e_1_2_13_20_1",
+              "unstructured": "The author is grateful to Kevin Smith for drawing this picture."
+            },
+            {
+              "key": "e_1_2_13_21_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1209/0295-5075/81/67003"
+            },
+            {
+              "key": "e_1_2_13_22_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1088/0953-8984/20/23/235233"
+            },
+            {
+              "key": "e_1_2_13_23_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.jpcs.2005.10.011"
+            },
+            {
+              "key": "e_1_2_13_24_1",
+              "unstructured": "This behavior for a simply connected rotating superconductor was characterized as “quite absurd” by F. London in ref. [1] p. 82. One may wonder what level of absurdity London would have ascribed to the corresponding behavior in type II superconductors (Figure 11)."
+            },
+            {
+              "key": "e_1_2_13_25_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevB.95.014503"
+            },
+            {
+              "key": "e_1_2_13_26_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1142/S0217979218501588"
+            },
+            {
+              "key": "e_1_2_13_27_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1142/S0217979211058766"
+            },
+            {
+              "key": "e_1_2_13_28_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1209/0295-5075/114/57001"
+            },
+            {
+              "key": "e_1_2_13_29_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.aop.2016.07.002"
+            },
+            {
+              "key": "e_1_2_13_30_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1002/andp.200810298"
+            },
+            {
+              "key": "e_1_2_13_31_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1209/0295-5075/113/37001"
+            },
+            {
+              "key": "e_1_2_13_32_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevB.68.184502"
+            },
+            {
+              "key": "e_1_2_13_33_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1142/S0217984910024730"
+            },
+            {
+              "key": "e_1_2_13_33_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.physleta.2010.07.023"
+            },
+            {
+              "key": "e_1_2_13_34_1",
+              "unstructured": "As Einstein remarked “it would be sufficient to really understand the electron.”"
+            }
+          ]
+        }
+      },
+      {
+        "id": "crossref:10.1142/s0217979220501751",
+        "title": "Thermodynamic inconsistency of the conventional theory of superconductivity",
+        "doi": "10.1142/s0217979220501751",
+        "year": 2020,
+        "authors": [
+          {
+            "id": "crossref:10.1142/s0217979220501751#author-0",
+            "name": "J. E. Hirsch",
+            "identifiers": {
+              "orcid": "0000-0001-7175-3497"
+            },
+            "variants": [],
+            "affiliations": [
+              "Department of Physics, University of California, San Diego, La Jolla, CA 92093-0319, USA"
+            ],
+            "subjects": [],
+            "dois": [
+              "10.1142/s0217979220501751"
+            ],
+            "coauthors": [],
+            "metrics": [],
+            "provenance": [
+              {
+                "source": "crossref",
+                "external_id": "10.1142/s0217979220501751",
+                "url": "https://doi.org/10.1142/s0217979220501751",
+                "retrieved_at": "2026-09-10T06:32:08.424246+00:00",
+                "raw": {
+                  "ORCID": "https://orcid.org/0000-0001-7175-3497",
+                  "authenticated-orcid": false,
+                  "given": "J. E.",
+                  "family": "Hirsch",
+                  "sequence": "first",
+                  "affiliation": [
+                    {
+                      "name": "Department of Physics, University of California, San Diego, La Jolla, CA 92093-0319, USA"
+                    }
+                  ],
+                  "role": [
+                    {
+                      "role": "author",
+                      "vocabulary": "crossref"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "issns": [
+          "0217-9792",
+          "1793-6578"
+        ],
+        "journal": "International Journal of Modern Physics B",
+        "alternative_titles": [],
+        "source_ids": {
+          "crossref": "10.1142/s0217979220501751"
+        },
+        "citations": [
+          {
+            "kind": "citation_count",
+            "value": 12,
+            "source": "crossref",
+            "retrieved_at": "2026-09-10T06:32:08.424246+00:00",
+            "year": null,
+            "category": null,
+            "scope": "source"
+          }
+        ],
+        "provenance": [
+          {
+            "source": "crossref",
+            "external_id": "10.1142/s0217979220501751",
+            "url": "https://doi.org/10.1142/s0217979220501751",
+            "retrieved_at": "2026-09-10T06:32:08.424246+00:00",
+            "raw": {
+              "indexed": {
+                "date-parts": [
+                  [
+                    2026,
+                    1,
+                    21
+                  ]
+                ],
+                "date-time": "2026-01-21T15:29:50Z",
+                "timestamp": 1769009390360,
+                "version": "3.49.0"
+              },
+              "reference-count": 19,
+              "publisher": "World Scientific Pub Co Pte Ltd",
+              "issue": "19",
+              "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+              },
+              "short-container-title": [
+                "Int. J. Mod. Phys. B"
+              ],
+              "published-print": {
+                "date-parts": [
+                  [
+                    2020,
+                    7,
+                    30
+                  ]
+                ]
+              },
+              "abstract": "<jats:p> A type I superconductor expels a magnetic field from its interior to a surface layer of thickness [Formula: see text], the London penetration depth. [Formula: see text] is a function of temperature, becoming smaller as the temperature decreases. Here we analyze the process of cooling (or heating) a type I superconductor in a magnetic field, with the system remaining always in the superconducting state. The conventional theory predicts that Joule heat is generated in this process, the amount of which depends on the rate at which the temperature changes. Assuming the final state of the superconductor is independent of history, as the conventional theory assumes, we show that this process violates the first and second laws of thermodynamics. We conclude that the conventional theory of superconductivity is internally inconsistent. Instead, we suggest that the alternative theory of hole superconductivity may be able to resolve this problem. </jats:p>",
+              "DOI": "10.1142/s0217979220501751",
+              "type": "journal-article",
+              "created": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    9
+                  ]
+                ],
+                "date-time": "2020-05-09T10:00:38Z",
+                "timestamp": 1589018438000
+              },
+              "page": "2050175",
+              "source": "Crossref",
+              "is-referenced-by-count": 12,
+              "title": [
+                "Thermodynamic inconsistency of the conventional theory of superconductivity"
+              ],
+              "prefix": "10.1142",
+              "volume": "34",
+              "author": [
+                {
+                  "ORCID": "https://orcid.org/0000-0001-7175-3497",
+                  "authenticated-orcid": false,
+                  "given": "J. E.",
+                  "family": "Hirsch",
+                  "sequence": "first",
+                  "affiliation": [
+                    {
+                      "name": "Department of Physics, University of California, San Diego, La Jolla, CA 92093-0319, USA"
+                    }
+                  ],
+                  "role": [
+                    {
+                      "role": "author",
+                      "vocabulary": "crossref"
+                    }
+                  ]
+                }
+              ],
+              "member": "219",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    8
+                  ]
+                ]
+              },
+              "reference": [
+                {
+                  "key": "S0217979220501751BIB002",
+                  "volume-title": "Introduction to Superconductivity",
+                  "author": "Tinkham M.",
+                  "year": "1996"
+                },
+                {
+                  "key": "S0217979220501751BIB004",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRev.88.952"
+                },
+                {
+                  "key": "S0217979220501751BIB005",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevB.95.014503"
+                },
+                {
+                  "key": "S0217979220501751BIB006",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1142/S0217979218501588"
+                },
+                {
+                  "key": "S0217979220501751BIB007",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRev.130.1401"
+                },
+                {
+                  "key": "S0217979220501751BIB008",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevLett.19.27"
+                },
+                {
+                  "key": "S0217979220501751BIB009",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevLett.91.267002"
+                },
+                {
+                  "key": "S0217979220501751BIB010",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1080/00107514.2017.1406623"
+                },
+                {
+                  "key": "S0217979220501751BIB011",
+                  "first-page": "963",
+                  "volume": "35",
+                  "author": "Gorter C. J.",
+                  "year": "1934",
+                  "journal-title": "Physik Z."
+                },
+                {
+                  "key": "S0217979220501751BIB012",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevLett.1.399"
+                },
+                {
+                  "key": "S0217979220501751BIB014",
+                  "volume-title": "Theory of Superconductivity",
+                  "author": "von Laue M."
+                },
+                {
+                  "key": "S0217979220501751BIB015",
+                  "volume-title": "Fundamentals of Statistical and Thermal Physics",
+                  "author": "Reif F.",
+                  "year": "1965"
+                },
+                {
+                  "key": "S0217979220501751BIB016",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1016/j.aop.2015.07.023"
+                },
+                {
+                  "key": "S0217979220501751BIB018",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1080/14786445008521795"
+                },
+                {
+                  "key": "S0217979220501751BIB019",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1017/CBO9780511626333"
+                },
+                {
+                  "key": "S0217979220501751BIB020",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1016/j.aop.2016.07.002"
+                },
+                {
+                  "key": "S0217979220501751BIB022",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1209/0295-5075/114/57001"
+                },
+                {
+                  "key": "S0217979220501751BIB023",
+                  "series-title": "Proc. SPIE 10105",
+                  "first-page": "101051V",
+                  "author": "Hirsch J. E.",
+                  "year": "2017"
+                },
+                {
+                  "key": "S0217979220501751BIB024",
+                  "doi-asserted-by": "publisher",
+                  "DOI": "10.1103/PhysRevB.44.11960"
+                }
+              ],
+              "container-title": [
+                "International Journal of Modern Physics B"
+              ],
+              "language": "en",
+              "link": [
+                {
+                  "URL": "https://www.worldscientific.com/doi/pdf/10.1142/S0217979220501751",
+                  "content-type": "unspecified",
+                  "content-version": "vor",
+                  "intended-application": "similarity-checking"
+                }
+              ],
+              "deposited": {
+                "date-parts": [
+                  [
+                    2020,
+                    8,
+                    21
+                  ]
+                ],
+                "date-time": "2020-08-21T04:09:29Z",
+                "timestamp": 1597982969000
+              },
+              "score": 0.0,
+              "resource": {
+                "primary": {
+                  "URL": "https://www.worldscientific.com/doi/abs/10.1142/S0217979220501751"
+                }
+              },
+              "issued": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    8
+                  ]
+                ]
+              },
+              "references-count": 19,
+              "journal-issue": {
+                "issue": "19",
+                "published-print": {
+                  "date-parts": [
+                    [
+                      2020,
+                      7,
+                      30
+                    ]
+                  ]
+                }
+              },
+              "alternative-id": [
+                "10.1142/S0217979220501751"
+              ],
+              "URL": "https://doi.org/10.1142/s0217979220501751",
+              "ISSN": [
+                "0217-9792",
+                "1793-6578"
+              ],
+              "issn-type": [
+                {
+                  "value": "0217-9792",
+                  "type": "print"
+                },
+                {
+                  "value": "1793-6578",
+                  "type": "electronic"
+                }
+              ],
+              "published": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    8
+                  ]
+                ]
+              }
+            }
+          }
+        ],
+        "extra": {
+          "type": "journal-article",
+          "relations": {},
+          "references": [
+            {
+              "key": "S0217979220501751BIB002",
+              "volume-title": "Introduction to Superconductivity",
+              "author": "Tinkham M.",
+              "year": "1996"
+            },
+            {
+              "key": "S0217979220501751BIB004",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRev.88.952"
+            },
+            {
+              "key": "S0217979220501751BIB005",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevB.95.014503"
+            },
+            {
+              "key": "S0217979220501751BIB006",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1142/S0217979218501588"
+            },
+            {
+              "key": "S0217979220501751BIB007",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRev.130.1401"
+            },
+            {
+              "key": "S0217979220501751BIB008",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevLett.19.27"
+            },
+            {
+              "key": "S0217979220501751BIB009",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevLett.91.267002"
+            },
+            {
+              "key": "S0217979220501751BIB010",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1080/00107514.2017.1406623"
+            },
+            {
+              "key": "S0217979220501751BIB011",
+              "first-page": "963",
+              "volume": "35",
+              "author": "Gorter C. J.",
+              "year": "1934",
+              "journal-title": "Physik Z."
+            },
+            {
+              "key": "S0217979220501751BIB012",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevLett.1.399"
+            },
+            {
+              "key": "S0217979220501751BIB014",
+              "volume-title": "Theory of Superconductivity",
+              "author": "von Laue M."
+            },
+            {
+              "key": "S0217979220501751BIB015",
+              "volume-title": "Fundamentals of Statistical and Thermal Physics",
+              "author": "Reif F.",
+              "year": "1965"
+            },
+            {
+              "key": "S0217979220501751BIB016",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.aop.2015.07.023"
+            },
+            {
+              "key": "S0217979220501751BIB018",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1080/14786445008521795"
+            },
+            {
+              "key": "S0217979220501751BIB019",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1017/CBO9780511626333"
+            },
+            {
+              "key": "S0217979220501751BIB020",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.aop.2016.07.002"
+            },
+            {
+              "key": "S0217979220501751BIB022",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1209/0295-5075/114/57001"
+            },
+            {
+              "key": "S0217979220501751BIB023",
+              "series-title": "Proc. SPIE 10105",
+              "first-page": "101051V",
+              "author": "Hirsch J. E.",
+              "year": "2017"
+            },
+            {
+              "key": "S0217979220501751BIB024",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1103/PhysRevB.44.11960"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 45,
+    "complete": false,
+    "note": "Ограниченная или незавершённая выборка Crossref по ORCID."
+  }
+}

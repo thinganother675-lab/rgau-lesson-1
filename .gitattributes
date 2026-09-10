@@ -1,0 +1,6 @@
+* text=auto
+# Keep research snapshot checksums identical across platforms.
+data/raw/** -text
+*.pdf binary
+*.xlsx binary
+*.png binary
