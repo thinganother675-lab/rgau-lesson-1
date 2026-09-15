@@ -1,0 +1,15 @@
+Автор: J. E. Hirsch (https://openalex.org/A5036688434)
+Получено публикаций: 3
+Покрытие: {"source": "openalex", "reported_total": 384, "retrieved": 3, "complete_in_primary_source": false, "requested_limit": 3}
+1999 | Spin Hall Effect | DOI 10.1103/physrevlett.83.1834
+  openalex: 3153 цит. (2026-09-10); crossref: 2952 цит. (2026-09-10)
+1985 | Two-dimensional Hubbard model: Numerical simulation study | DOI 10.1103/physrevb.31.4403
+  openalex: 1101 цит. (2026-09-10); crossref: 1017 цит. (2026-09-10)
+2007 | Does the h index have predictive power? | DOI 10.1073/pnas.0707962104
+  openalex: 970 цит. (2026-09-10); crossref: 788 цит. (2026-09-10)
+h по выборке crossref: 3 (3 работ)
+h по выборке openalex: 3 (3 работ)
+Источник openalex: ok 
+Источник crossref: ok 
+Источник openalex: ok 
+Источник scopus: missing_credentials 

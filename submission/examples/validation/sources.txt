@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "source": "crossref",
+      "mode": "live API",
+      "credentials": "none; optional CROSSREF_MAILTO",
+      "status": "configured",
+      "role": "DOI metadata and ORCID-filtered works; no native author profiles"
+    },
+    {
+      "source": "openalex",
+      "mode": "live API",
+      "credentials": "optional OPENALEX_API_KEY",
+      "status": "configured",
+      "role": "candidate profiles, selected ID works, citations"
+    },
+    {
+      "source": "orcid",
+      "mode": "live public record",
+      "credentials": "optional ORCID_ACCESS_TOKEN",
+      "status": "configured",
+      "role": "public record by ORCID; not citation metrics"
+    },
+    {
+      "source": "whitelist",
+      "mode": "live API + official JSON/normalized CSV/XLSX",
+      "credentials": "none",
+      "status": "configured",
+      "role": "ISSN lookup, explicit classification years"
+    },
+    {
+      "source": "vak",
+      "mode": "official PDF + normalized CSV/XLSX/JSON import",
+      "credentials": "none",
+      "status": "import",
+      "role": "dated snapshot; specialty/date wording retained"
+    },
+    {
+      "source": "scopus",
+      "mode": "optional live API + normalized import",
+      "credentials": "SCOPUS_API_KEY; institutional entitlement may be required",
+      "status": "missing_credentials"
+    },
+    {
+      "source": "elibrary",
+      "mode": "normalized authorized export import",
+      "credentials": "agreement-dependent",
+      "status": "import_only",
+      "reason": "public usable API contract not verified; website not scraped"
+    },
+    {
+      "source": "ranking",
+      "mode": "normalized CSV/XLSX/JSON import",
+      "status": "import_only",
+      "role": "quartiles require source system, category, metric year; no invented rankings"
+    }
+  ]
+}

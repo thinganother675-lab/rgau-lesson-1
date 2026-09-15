@@ -1,0 +1,4465 @@
+{
+  "id": "orcid:0000-0001-7175-3497",
+  "name": "j e hirsch",
+  "identifiers": {
+    "orcid": "0000-0001-7175-3497"
+  },
+  "variants": [],
+  "affiliations": [],
+  "subjects": [],
+  "dois": [
+    "10.1002/andp.201900212",
+    "10.1002/andp.70215",
+    "10.1007/s10948-022-06340-3",
+    "10.1007/s10948-022-06391-6",
+    "10.1007/s10948-023-06569-6",
+    "10.1007/s10948-023-06593-6",
+    "10.1007/s10948-023-06594-5",
+    "10.1007/s10948-023-06622-4",
+    "10.1016/j.physc.2025.1354823",
+    "10.1016/j.physc.2026.1354857",
+    "10.1038/s41567-022-01693-x",
+    "10.1038/s41586-021-03595-z",
+    "10.1039/d2cc05277f",
+    "10.1063/5.0071158",
+    "10.1063/5.0088429",
+    "10.1063/5.0091404",
+    "10.1063/5.0104968",
+    "10.1063/5.0108683",
+    "10.1088/1361-648x/ae3cf2",
+    "10.1088/1361-648x/ae5860",
+    "10.1088/1402-4896/ad4517",
+    "10.1093/nsr/nwad174",
+    "10.1142/s0217979220501751",
+    "10.1142/s0217979224300019",
+    "10.1142/s0217979225501000",
+    "10.1142/s0217984920503005",
+    "10.21203/rs.3.rs-1001084/v1",
+    "10.31219/osf.io/2gyj9",
+    "10.31219/osf.io/5pqdj",
+    "10.31219/osf.io/6eu7b_v1",
+    "10.31219/osf.io/9xzra",
+    "10.31219/osf.io/af8gw",
+    "10.31219/osf.io/axfpj",
+    "10.31219/osf.io/bxvmj",
+    "10.31219/osf.io/ceyp8",
+    "10.31219/osf.io/g7hyc",
+    "10.31219/osf.io/h289v",
+    "10.31219/osf.io/hujeg",
+    "10.31219/osf.io/kda9y",
+    "10.31219/osf.io/kpxuf",
+    "10.31219/osf.io/mkgjt",
+    "10.31219/osf.io/p29ht",
+    "10.31219/osf.io/tsym9",
+    "10.3390/condmat11030028",
+    "10.3390/ma17010254"
+  ],
+  "coauthors": [],
+  "metrics": [],
+  "provenance": [
+    {
+      "source": "orcid",
+      "external_id": "0000-0001-7175-3497",
+      "url": "https://pub.orcid.org/v3.0/0000-0001-7175-3497/record",
+      "retrieved_at": "2026-09-10T06:40:14.959919+00:00",
+      "raw": {
+        "orcid-identifier": {
+          "uri": "https://orcid.org/0000-0001-7175-3497",
+          "path": "0000-0001-7175-3497",
+          "host": "orcid.org"
+        },
+        "preferences": {
+          "locale": "en"
+        },
+        "history": {
+          "creation-method": "MEMBER_REFERRED",
+          "completion-date": null,
+          "submission-date": {
+            "value": 1436118328932
+          },
+          "last-modified-date": {
+            "value": 1784938043942
+          },
+          "claimed": true,
+          "source": null,
+          "deactivation-date": null,
+          "verified-email": true,
+          "verified-primary-email": true
+        },
+        "person": {
+          "last-modified-date": {
+            "value": 1517869567419
+          },
+          "name": {
+            "created-date": {
+              "value": 1460754631496
+            },
+            "last-modified-date": {
+              "value": 1460754631496
+            },
+            "given-names": {
+              "value": "j e"
+            },
+            "family-name": {
+              "value": "hirsch"
+            },
+            "credit-name": null,
+            "source": null,
+            "visibility": "public",
+            "path": "0000-0001-7175-3497"
+          },
+          "other-names": {
+            "last-modified-date": null,
+            "other-name": [],
+            "path": "/0000-0001-7175-3497/other-names"
+          },
+          "biography": null,
+          "researcher-urls": {
+            "last-modified-date": null,
+            "researcher-url": [],
+            "path": "/0000-0001-7175-3497/researcher-urls"
+          },
+          "emails": {
+            "last-modified-date": null,
+            "email": [],
+            "path": "/0000-0001-7175-3497/email"
+          },
+          "addresses": {
+            "last-modified-date": null,
+            "address": [],
+            "path": "/0000-0001-7175-3497/address"
+          },
+          "keywords": {
+            "last-modified-date": null,
+            "keyword": [],
+            "path": "/0000-0001-7175-3497/keywords"
+          },
+          "external-identifiers": {
+            "last-modified-date": {
+              "value": 1517869567419
+            },
+            "external-identifier": [
+              {
+                "created-date": {
+                  "value": 1436118331719
+                },
+                "last-modified-date": {
+                  "value": 1517869567419
+                },
+                "source": {
+                  "source-orcid": null,
+                  "source-client-id": {
+                    "uri": "https://orcid.org/client/0000-0003-1377-5676",
+                    "path": "0000-0003-1377-5676",
+                    "host": "orcid.org"
+                  },
+                  "source-name": {
+                    "value": "ResearcherID"
+                  },
+                  "assertion-origin-orcid": {
+                    "uri": "https://orcid.org/0000-0001-7175-3497",
+                    "path": "0000-0001-7175-3497",
+                    "host": "orcid.org"
+                  },
+                  "assertion-origin-client-id": null,
+                  "assertion-origin-name": {
+                    "value": "j e hirsch"
+                  }
+                },
+                "external-id-type": "ResearcherID",
+                "external-id-value": "H-4045-2015",
+                "external-id-url": {
+                  "value": "http://www.researcherid.com/rid/H-4045-2015"
+                },
+                "external-id-relationship": "self",
+                "visibility": "public",
+                "path": "/0000-0001-7175-3497/external-identifiers/297488",
+                "put-code": 297488,
+                "display-index": 0
+              }
+            ],
+            "path": "/0000-0001-7175-3497/external-identifiers"
+          },
+          "path": "/0000-0001-7175-3497/person"
+        },
+        "activities-summary": {
+          "last-modified-date": {
+            "value": 1784938044085
+          },
+          "distinctions": {
+            "last-modified-date": null,
+            "affiliation-group": [],
+            "path": "/0000-0001-7175-3497/distinctions"
+          },
+          "educations": {
+            "last-modified-date": null,
+            "affiliation-group": [],
+            "path": "/0000-0001-7175-3497/educations"
+          },
+          "employments": {
+            "last-modified-date": null,
+            "affiliation-group": [],
+            "path": "/0000-0001-7175-3497/employments"
+          },
+          "fundings": {
+            "last-modified-date": null,
+            "group": [],
+            "path": "/0000-0001-7175-3497/fundings"
+          },
+          "invited-positions": {
+            "last-modified-date": null,
+            "affiliation-group": [],
+            "path": "/0000-0001-7175-3497/invited-positions"
+          },
+          "memberships": {
+            "last-modified-date": null,
+            "affiliation-group": [],
+            "path": "/0000-0001-7175-3497/memberships"
+          },
+          "peer-reviews": {
+            "last-modified-date": null,
+            "group": [],
+            "path": "/0000-0001-7175-3497/peer-reviews"
+          },
+          "qualifications": {
+            "last-modified-date": null,
+            "affiliation-group": [],
+            "path": "/0000-0001-7175-3497/qualifications"
+          },
+          "research-resources": {
+            "last-modified-date": null,
+            "group": [],
+            "path": "/0000-0001-7175-3497/research-resources"
+          },
+          "services": {
+            "last-modified-date": null,
+            "affiliation-group": [],
+            "path": "/0000-0001-7175-3497/services"
+          },
+          "works": {
+            "last-modified-date": {
+              "value": 1784938044085
+            },
+            "group": [
+              {
+                "last-modified-date": {
+                  "value": 1784938044085
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.3390/condmat11030028",
+                      "external-id-normalized": {
+                        "value": "10.3390/condmat11030028",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.3390/condmat11030028"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 221264385,
+                    "created-date": {
+                      "value": 1784573052737
+                    },
+                    "last-modified-date": {
+                      "value": 1784573052737
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Delayed Conceptual Unification in the Theory of Hole Superconductivity"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.3390/condmat11030028",
+                          "external-id-normalized": {
+                            "value": "10.3390/condmat11030028",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.3390/condmat11030028"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.3390/condmat11030028"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2026"
+                      },
+                      "month": {
+                        "value": "07"
+                      },
+                      "day": {
+                        "value": "20"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Condensed Matter"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/221264385",
+                    "display-index": "1"
+                  },
+                  {
+                    "put-code": 221748831,
+                    "created-date": {
+                      "value": 1784938044085
+                    },
+                    "last-modified-date": {
+                      "value": 1784938044085
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/APP-WRQOUAK78G5F7GMD",
+                        "path": "APP-WRQOUAK78G5F7GMD",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Multidisciplinary Digital Publishing Institute"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Delayed Conceptual Unification in the Theory of Hole Superconductivity"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.3390/condmat11030028",
+                          "external-id-normalized": {
+                            "value": "10.3390/condmat11030028",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.3390/condmat11030028"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://www.mdpi.com/2410-3896/11/3/28"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2026"
+                      },
+                      "month": {
+                        "value": "07"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Condensed Matter"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/221748831",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1774927764954
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1016/j.physc.2026.1354857",
+                      "external-id-normalized": {
+                        "value": "10.1016/j.physc.2026.1354857",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.physc.2026.1354857"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 209473269,
+                    "created-date": {
+                      "value": 1774342444410
+                    },
+                    "last-modified-date": {
+                      "value": 1774927764954
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "On a recent explanation of the dynamics of the Meissner effect within the conventional theory of superconductivity"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1016/j.physc.2026.1354857",
+                          "external-id-normalized": {
+                            "value": "10.1016/j.physc.2026.1354857",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1016/j.physc.2026.1354857"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1016/j.physc.2026.1354857"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2026"
+                      },
+                      "month": {
+                        "value": "06"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Physica C: Superconductivity and its Applications"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/209473269",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1778607523942
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1002/andp.70215",
+                      "external-id-normalized": {
+                        "value": "10.1002/andp.70215",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1002/andp.70215"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 214426523,
+                    "created-date": {
+                      "value": 1778607523942
+                    },
+                    "last-modified-date": {
+                      "value": 1778607523942
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "What Cavities in Superconductors Reveal About Superconductivity"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1002/andp.70215",
+                          "external-id-normalized": {
+                            "value": "10.1002/andp.70215",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1002/andp.70215"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1002/andp.70215"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2026"
+                      },
+                      "month": {
+                        "value": "05"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Annalen der Physik"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/214426523",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1775767620238
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1088/1361-648X/ae5860",
+                      "external-id-normalized": {
+                        "value": "10.1088/1361-648x/ae5860",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1088/1361-648X/ae5860"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 211227194,
+                    "created-date": {
+                      "value": 1775767620238
+                    },
+                    "last-modified-date": {
+                      "value": 1775767620238
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "CORRIGENDUM: The missing angular momentum of superconductors (2008 J. Phys.: Condens. Matter 20 235233)"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1088/1361-648X/ae5860",
+                          "external-id-normalized": {
+                            "value": "10.1088/1361-648x/ae5860",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1088/1361-648X/ae5860"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1088/1361-648X/ae5860"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2026"
+                      },
+                      "month": {
+                        "value": "04"
+                      },
+                      "day": {
+                        "value": "03"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Journal of Physics: Condensed Matter"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/211227194",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1771344570695
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1088/1361-648X/ae3cf2",
+                      "external-id-normalized": {
+                        "value": "10.1088/1361-648x/ae3cf2",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1088/1361-648X/ae3cf2"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 203427679,
+                    "created-date": {
+                      "value": 1769210121295
+                    },
+                    "last-modified-date": {
+                      "value": 1771344570695
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "The Meissner effect in superconductors: emergence versus reductionism"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1088/1361-648X/ae3cf2",
+                          "external-id-normalized": {
+                            "value": "10.1088/1361-648x/ae3cf2",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1088/1361-648X/ae3cf2"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1088/1361-648X/ae3cf2"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2026"
+                      },
+                      "month": {
+                        "value": "02"
+                      },
+                      "day": {
+                        "value": "20"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Journal of Physics: Condensed Matter"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/203427679",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1766199782661
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1016/j.physc.2025.1354823",
+                      "external-id-normalized": {
+                        "value": "10.1016/j.physc.2025.1354823",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.physc.2025.1354823"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 200185324,
+                    "created-date": {
+                      "value": 1766097024654
+                    },
+                    "last-modified-date": {
+                      "value": 1766199782661
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Can a superconductor charge a battery?"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1016/j.physc.2025.1354823",
+                          "external-id-normalized": {
+                            "value": "10.1016/j.physc.2025.1354823",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1016/j.physc.2025.1354823"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1016/j.physc.2025.1354823"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2026"
+                      },
+                      "month": {
+                        "value": "01"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Physica C: Superconductivity and its Applications"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/200185324",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1744728736454
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1142/S0217979225501000",
+                      "external-id-normalized": {
+                        "value": "10.1142/s0217979225501000",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1142/S0217979225501000"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 166477929,
+                    "created-date": {
+                      "value": 1724989764810
+                    },
+                    "last-modified-date": {
+                      "value": 1744728736454
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "How do you trust but verify hydride superconductivity?"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1142/S0217979225501000",
+                          "external-id-normalized": {
+                            "value": "10.1142/s0217979225501000",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1142/S0217979225501000"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1142/S0217979225501000"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2025"
+                      },
+                      "month": {
+                        "value": "05"
+                      },
+                      "day": {
+                        "value": "20"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "International Journal of Modern Physics B"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/166477929",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1742328303916
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/6eu7b_v1",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/6eu7b_v1",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/6eu7b_v1"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 180354634,
+                    "created-date": {
+                      "value": 1742328303916
+                    },
+                    "last-modified-date": {
+                      "value": 1742328303916
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Does the Meissner effect require radial charge flow?"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/6eu7b_v1",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/6eu7b_v1",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/6eu7b_v1"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/6eu7b_v1"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2025"
+                      },
+                      "month": {
+                        "value": "03"
+                      },
+                      "day": {
+                        "value": "18"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/180354634",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1736170177680
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/ceyp8",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/ceyp8",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/ceyp8"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 175092310,
+                    "created-date": {
+                      "value": 1736170177680
+                    },
+                    "last-modified-date": {
+                      "value": 1736170177680
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Hydride superconductivity: here to stay, or to lead astray and soon go away?"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/ceyp8",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/ceyp8",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/ceyp8"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/ceyp8"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2025"
+                      },
+                      "month": {
+                        "value": "01"
+                      },
+                      "day": {
+                        "value": "06"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/175092310",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1729238823069
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/kpxuf",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/kpxuf",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/kpxuf"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 169819154,
+                    "created-date": {
+                      "value": 1729238823069
+                    },
+                    "last-modified-date": {
+                      "value": 1729238823069
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Hole Superconductivity"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/kpxuf",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/kpxuf",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/kpxuf"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/kpxuf"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2024"
+                      },
+                      "month": {
+                        "value": "10"
+                      },
+                      "day": {
+                        "value": "18"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/169819154",
+                    "display-index": "1"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1718362239381
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1093/nsr/nwad174",
+                      "external-id-normalized": {
+                        "value": "10.1093/nsr/nwad174",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1093/nsr/nwad174"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 136925656,
+                    "created-date": {
+                      "value": 1686806716414
+                    },
+                    "last-modified-date": {
+                      "value": 1718362239381
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Are hydrides under high-pressure–high-temperature superconductors?"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1093/nsr/nwad174",
+                          "external-id-normalized": {
+                            "value": "10.1093/nsr/nwad174",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1093/nsr/nwad174"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1093/nsr/nwad174"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2024"
+                      },
+                      "month": {
+                        "value": "06"
+                      },
+                      "day": {
+                        "value": "13"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "National Science Review"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/136925656",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1715665829569
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1088/1402-4896/ad4517",
+                      "external-id-normalized": {
+                        "value": "10.1088/1402-4896/ad4517",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1088/1402-4896/ad4517"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 158687518,
+                    "created-date": {
+                      "value": 1714431167315
+                    },
+                    "last-modified-date": {
+                      "value": 1715665829569
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Corrigendum: Dynamic Hubbard model: kinetic energy driven charge expulsion, charge inhomogeneity, hole superconductivity, and Meissner effect (2013 Phys. Scr. 88 035704)"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1088/1402-4896/ad4517",
+                          "external-id-normalized": {
+                            "value": "10.1088/1402-4896/ad4517",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1088/1402-4896/ad4517"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1088/1402-4896/ad4517"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2024"
+                      },
+                      "month": {
+                        "value": "06"
+                      },
+                      "day": {
+                        "value": "01"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Physica Scripta"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/158687518",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1715773395067
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/mkgjt",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/mkgjt",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/mkgjt"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 159650369,
+                    "created-date": {
+                      "value": 1715773395067
+                    },
+                    "last-modified-date": {
+                      "value": 1715773395067
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Reply to “Comment on ‘Nonstandard superconductivity or no superconductivity in hydrides under high pressure’ ”"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/mkgjt",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/mkgjt",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/mkgjt"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/mkgjt"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2024"
+                      },
+                      "month": {
+                        "value": "05"
+                      },
+                      "day": {
+                        "value": "13"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/159650369",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1709208897070
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1142/S0217979224300019",
+                      "external-id-normalized": {
+                        "value": "10.1142/s0217979224300019",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1142/S0217979224300019"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 131897307,
+                    "created-date": {
+                      "value": 1680139818677
+                    },
+                    "last-modified-date": {
+                      "value": 1709208897070
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Superconductivity, what the H? the emperor has no clothes"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1142/S0217979224300019",
+                          "external-id-normalized": {
+                            "value": "10.1142/s0217979224300019",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1142/S0217979224300019"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1142/S0217979224300019"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2024"
+                      },
+                      "month": {
+                        "value": "03"
+                      },
+                      "day": {
+                        "value": "20"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "International Journal of Modern Physics B"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/131897307",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1709184803376
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/hujeg",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/hujeg",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/hujeg"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 154300665,
+                    "created-date": {
+                      "value": 1709184803376
+                    },
+                    "last-modified-date": {
+                      "value": 1709184803376
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "How do you trust but verify hydride superconductivity?"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/hujeg",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/hujeg",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/hujeg"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/hujeg"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2024"
+                      },
+                      "month": {
+                        "value": "02"
+                      },
+                      "day": {
+                        "value": "28"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/154300665",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1704675920748
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.3390/ma17010254",
+                      "external-id-normalized": {
+                        "value": "10.3390/ma17010254",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.3390/ma17010254"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 149862723,
+                    "created-date": {
+                      "value": 1704308758720
+                    },
+                    "last-modified-date": {
+                      "value": 1704308758720
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "On Thermal and Electrodynamic Aspects of the Superconductive Transition Process"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.3390/ma17010254",
+                          "external-id-normalized": {
+                            "value": "10.3390/ma17010254",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.3390/ma17010254"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.3390/ma17010254"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2024"
+                      },
+                      "month": {
+                        "value": "01"
+                      },
+                      "day": {
+                        "value": "03"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Materials"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/149862723",
+                    "display-index": "0"
+                  },
+                  {
+                    "put-code": 150138921,
+                    "created-date": {
+                      "value": 1704675920748
+                    },
+                    "last-modified-date": {
+                      "value": 1704675920748
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/APP-WRQOUAK78G5F7GMD",
+                        "path": "APP-WRQOUAK78G5F7GMD",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Multidisciplinary Digital Publishing Institute"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "On Thermal and Electrodynamic Aspects of the Superconductive Transition Process"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.3390/ma17010254",
+                          "external-id-normalized": {
+                            "value": "10.3390/ma17010254",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.3390/ma17010254"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://www.mdpi.com/1996-1944/17/1/254"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2024"
+                      },
+                      "month": {
+                        "value": "01"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Materials"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/150138921",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1703397199258
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/h289v",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/h289v",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/h289v"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 149326071,
+                    "created-date": {
+                      "value": 1703397199258
+                    },
+                    "last-modified-date": {
+                      "value": 1703397199258
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "On the Author Correction to \"Magnetic field screening in hydride superconductors\""
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/h289v",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/h289v",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/h289v"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/h289v"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "12"
+                      },
+                      "day": {
+                        "value": "24"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/149326071",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1702962898231
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/p29ht",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/p29ht",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/p29ht"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 148995735,
+                    "created-date": {
+                      "value": 1702962898231
+                    },
+                    "last-modified-date": {
+                      "value": 1702962898231
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Comment on arXiv:2312.04495 by M. I. Eremets and coauthors"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/p29ht",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/p29ht",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/p29ht"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/p29ht"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "12"
+                      },
+                      "day": {
+                        "value": "18"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/148995735",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1701172351455
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1007/s10948-023-06622-4",
+                      "external-id-normalized": {
+                        "value": "10.1007/s10948-023-06622-4",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1007/s10948-023-06622-4"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 143468652,
+                    "created-date": {
+                      "value": 1696347958227
+                    },
+                    "last-modified-date": {
+                      "value": 1701172351455
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "On Magnetic Field Screening and Trapping in Hydrogen-Rich High-Temperature Superconductors: Unpulling the Wool Over Readers’ Eyes"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1007/s10948-023-06622-4",
+                          "external-id-normalized": {
+                            "value": "10.1007/s10948-023-06622-4",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1007/s10948-023-06622-4"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1007/s10948-023-06622-4"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "12"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Journal of Superconductivity and Novel Magnetism"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/143468652",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1701325221308
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/bxvmj",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/bxvmj",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/bxvmj"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 147768510,
+                    "created-date": {
+                      "value": 1701325221308
+                    },
+                    "last-modified-date": {
+                      "value": 1701325221308
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Hysteresis loops in measurements of the magnetic moment of hydrides under high pressure: implications for superconductivity"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/bxvmj",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/bxvmj",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/bxvmj"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/bxvmj"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "11"
+                      },
+                      "day": {
+                        "value": "29"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/147768510",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1695966463423
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/axfpj",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/axfpj",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/axfpj"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 143230365,
+                    "created-date": {
+                      "value": 1695966463423
+                    },
+                    "last-modified-date": {
+                      "value": 1695966463423
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Can linear transformations bend a straight line? Comment on Author Correction to Magnetic field screening in hydrogen-rich high-temperature superconductors"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/axfpj",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/axfpj",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/axfpj"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/axfpj"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "09"
+                      },
+                      "day": {
+                        "value": "29"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/143230365",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1686635528615
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/5pqdj",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/5pqdj",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/5pqdj"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 136793654,
+                    "created-date": {
+                      "value": 1686635528615
+                    },
+                    "last-modified-date": {
+                      "value": 1686635528615
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Are hydrides under high pressure high temperature superconductors?"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/5pqdj",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/5pqdj",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/5pqdj"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/5pqdj"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "06"
+                      },
+                      "day": {
+                        "value": "12"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/136793654",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1691062305467
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1007/s10948-023-06594-5",
+                      "external-id-normalized": {
+                        "value": "10.1007/s10948-023-06594-5",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1007/s10948-023-06594-5"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 137315015,
+                    "created-date": {
+                      "value": 1687369818306
+                    },
+                    "last-modified-date": {
+                      "value": 1691062305467
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Electrical Resistance of Hydrides Under High Pressure: Evidence of Superconductivity or Confirmation Bias?"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1007/s10948-023-06594-5",
+                          "external-id-normalized": {
+                            "value": "10.1007/s10948-023-06594-5",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1007/s10948-023-06594-5"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1007/s10948-023-06594-5"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "06"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Journal of Superconductivity and Novel Magnetism"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/137315015",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1691062305103
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1007/s10948-023-06593-6",
+                      "external-id-normalized": {
+                        "value": "10.1007/s10948-023-06593-6",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1007/s10948-023-06593-6"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 137072114,
+                    "created-date": {
+                      "value": 1687037844423
+                    },
+                    "last-modified-date": {
+                      "value": 1691062305103
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Enormous Variation in Homogeneity and Other Anomalous Features of Room Temperature Superconductor Samples: A Comment on Nature 615, 244 (2023)"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1007/s10948-023-06593-6",
+                          "external-id-normalized": {
+                            "value": "10.1007/s10948-023-06593-6",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1007/s10948-023-06593-6"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1007/s10948-023-06593-6"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "06"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Journal of Superconductivity and Novel Magnetism"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/137072114",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1684908165940
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/g7hyc",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/g7hyc",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/g7hyc"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 135620403,
+                    "created-date": {
+                      "value": 1684908165940
+                    },
+                    "last-modified-date": {
+                      "value": 1684908165940
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Electrical resistance of hydrides under high pressure: evidence of superconductivity or confirmation bias?"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/g7hyc",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/g7hyc",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/g7hyc"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/g7hyc"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "05"
+                      },
+                      "day": {
+                        "value": "23"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/135620403",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1685355172329
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1007/s10948-023-06569-6",
+                      "external-id-normalized": {
+                        "value": "10.1007/s10948-023-06569-6",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1007/s10948-023-06569-6"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 134847859,
+                    "created-date": {
+                      "value": 1683799705309
+                    },
+                    "last-modified-date": {
+                      "value": 1685355172329
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "On Magnetic Field Screening and Expulsion in Hydride Superconductors"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1007/s10948-023-06569-6",
+                          "external-id-normalized": {
+                            "value": "10.1007/s10948-023-06569-6",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1007/s10948-023-06569-6"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1007/s10948-023-06569-6"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": {
+                        "value": "04"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Journal of Superconductivity and Novel Magnetism"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/134847859",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1682417926973
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1039/D2CC05277F",
+                      "external-id-normalized": {
+                        "value": "10.1039/d2cc05277f",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1039/D2CC05277F"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 133539842,
+                    "created-date": {
+                      "value": 1682086331408
+                    },
+                    "last-modified-date": {
+                      "value": 1682417926973
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Comment on “Carbon content drives high temperature superconductivity in a carbonaceous sulfur hydride below 100 GPa” by G. A. Smith, I. E. Collings, E. Snider, D. Smith, S. Petitgirard, J. S. Smith, M. White, E. Jones, P. Ellison, K. V. Lawler, R. P. Dias and A. Salamat, Chem. Commun., 2022, 58, 9064"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1039/D2CC05277F",
+                          "external-id-normalized": {
+                            "value": "10.1039/d2cc05277f",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1039/D2CC05277F"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1039/D2CC05277F"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2023"
+                      },
+                      "month": null,
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Chemical Communications"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/133539842",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1764212887518
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/9xzra",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/9xzra",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/9xzra"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627950,
+                    "created-date": {
+                      "value": 1669577070915
+                    },
+                    "last-modified-date": {
+                      "value": 1764212887518
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "On magnetic field screening and expulsion in hydride superconductors"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/9xzra",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/9xzra",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/9xzra"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/9xzra"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "11"
+                      },
+                      "day": {
+                        "value": "15"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627950",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577070419
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1007/s10948-022-06391-6",
+                      "external-id-normalized": {
+                        "value": "10.1007/s10948-022-06391-6",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1007/s10948-022-06391-6"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627949,
+                    "created-date": {
+                      "value": 1669577070419
+                    },
+                    "last-modified-date": {
+                      "value": 1669577070419
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Comment on “On the Analysis of the Tin-Inside-$$H_3S$$ Mössbauer Experiment”"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1007/s10948-022-06391-6",
+                          "external-id-normalized": {
+                            "value": "10.1007/s10948-022-06391-6",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1007/s10948-022-06391-6"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1007/s10948-022-06391-6"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "11"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Journal of Superconductivity and Novel Magnetism"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627949",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577066324
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1007/s10948-022-06340-3",
+                      "external-id-normalized": {
+                        "value": "10.1007/s10948-022-06340-3",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1007/s10948-022-06340-3"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627939,
+                    "created-date": {
+                      "value": 1669577066324
+                    },
+                    "last-modified-date": {
+                      "value": 1669577066324
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Granular Superconductivity in Hydrides Under Pressure"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1007/s10948-022-06340-3",
+                          "external-id-normalized": {
+                            "value": "10.1007/s10948-022-06340-3",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1007/s10948-022-06340-3"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1007/s10948-022-06340-3"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "10"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Journal of Superconductivity and Novel Magnetism"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627939",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577068315
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1063/5.0091404",
+                      "external-id-normalized": {
+                        "value": "10.1063/5.0091404",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1063/5.0091404"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627942,
+                    "created-date": {
+                      "value": 1669577068315
+                    },
+                    "last-modified-date": {
+                      "value": 1669577068315
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Clear evidence against superconductivity in hydrides under high pressure"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1063/5.0091404",
+                          "external-id-normalized": {
+                            "value": "10.1063/5.0091404",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1063/5.0091404"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1063/5.0091404"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "09"
+                      },
+                      "day": {
+                        "value": "01"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Matter and Radiation at Extremes"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627942",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577069431
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1063/5.0108683",
+                      "external-id-normalized": {
+                        "value": "10.1063/5.0108683",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1063/5.0108683"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627945,
+                    "created-date": {
+                      "value": 1669577069431
+                    },
+                    "last-modified-date": {
+                      "value": 1669577069431
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Corrigendum to: “Incompatibility of published ac magnetic susceptibility of a room temperature superconductor with measured raw data” [Matter Radiat. Extremes 7, 048401 (2022)]"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1063/5.0108683",
+                          "external-id-normalized": {
+                            "value": "10.1063/5.0108683",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1063/5.0108683"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1063/5.0108683"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "09"
+                      },
+                      "day": {
+                        "value": "01"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Matter and Radiation at Extremes"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627945",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577069158
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1038/s41567-022-01693-x",
+                      "external-id-normalized": {
+                        "value": "10.1038/s41567-022-01693-x",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1038/s41567-022-01693-x"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627944,
+                    "created-date": {
+                      "value": 1669577069158
+                    },
+                    "last-modified-date": {
+                      "value": 1669577069158
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Absence of evidence of superconductivity in sulfur hydride in optical reflectance experiments"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1038/s41567-022-01693-x",
+                          "external-id-normalized": {
+                            "value": "10.1038/s41567-022-01693-x",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1038/s41567-022-01693-x"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1038/s41567-022-01693-x"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "09"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Nature Physics"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627944",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577070126
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1063/5.0104968",
+                      "external-id-normalized": {
+                        "value": "10.1063/5.0104968",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1063/5.0104968"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627946,
+                    "created-date": {
+                      "value": 1669577070126
+                    },
+                    "last-modified-date": {
+                      "value": 1669577070126
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Superconducting materials: Judge and jury of BCS-electron–phonon theory"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1063/5.0104968",
+                          "external-id-normalized": {
+                            "value": "10.1063/5.0104968",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1063/5.0104968"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1063/5.0104968"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "08"
+                      },
+                      "day": {
+                        "value": "22"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Applied Physics Letters"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627946",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1763862463714
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/2gyj9",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/2gyj9",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/2gyj9"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627943,
+                    "created-date": {
+                      "value": 1669577068709
+                    },
+                    "last-modified-date": {
+                      "value": 1763862463714
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "On the \"User Defined Background\" and \"Measured Voltage\" that detected room temperature superconductivity in carbonaceous sulfur hydride (CSH)"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/2gyj9",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/2gyj9",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/2gyj9"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/2gyj9"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "08"
+                      },
+                      "day": {
+                        "value": "04"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627943",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1763873987242
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/tsym9",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/tsym9",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/tsym9"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627941,
+                    "created-date": {
+                      "value": 1669577067602
+                    },
+                    "last-modified-date": {
+                      "value": 1763873987242
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Superconducting Materials: Judge, Jury and Executioner of BCS-electron-phonon Theory"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/tsym9",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/tsym9",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/tsym9"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/tsym9"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "07"
+                      },
+                      "day": {
+                        "value": "08"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627941",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577066948
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1063/5.0088429",
+                      "external-id-normalized": {
+                        "value": "10.1063/5.0088429",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1063/5.0088429"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627940,
+                    "created-date": {
+                      "value": 1669577066948
+                    },
+                    "last-modified-date": {
+                      "value": 1669577066948
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Incompatibility of published ac magnetic susceptibility of a room temperature superconductor with measured raw data"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1063/5.0088429",
+                          "external-id-normalized": {
+                            "value": "10.1063/5.0088429",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1063/5.0088429"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1063/5.0088429"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "07"
+                      },
+                      "day": {
+                        "value": "01"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Matter and Radiation at Extremes"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627940",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1763723321849
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/af8gw",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/af8gw",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/af8gw"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627938,
+                    "created-date": {
+                      "value": 1669577065580
+                    },
+                    "last-modified-date": {
+                      "value": 1763723321849
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Comment on \"On the analysis of the tin-inside-H3S Mossbauer experiment\""
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/af8gw",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/af8gw",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/af8gw"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/af8gw"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "05"
+                      },
+                      "day": {
+                        "value": "11"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627938",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1763778257061
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.31219/osf.io/kda9y",
+                      "external-id-normalized": {
+                        "value": "10.31219/osf.io/kda9y",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.31219/osf.io/kda9y"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627937,
+                    "created-date": {
+                      "value": 1669577065266
+                    },
+                    "last-modified-date": {
+                      "value": 1763778257061
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Granular superconductivity in hydrides under pressure"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.31219/osf.io/kda9y",
+                          "external-id-normalized": {
+                            "value": "10.31219/osf.io/kda9y",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.31219/osf.io/kda9y"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.31219/osf.io/kda9y"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2022"
+                      },
+                      "month": {
+                        "value": "04"
+                      },
+                      "day": {
+                        "value": "26"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627937",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577064531
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1063/5.0071158",
+                      "external-id-normalized": {
+                        "value": "10.1063/5.0071158",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1063/5.0071158"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627936,
+                    "created-date": {
+                      "value": 1669577064531
+                    },
+                    "last-modified-date": {
+                      "value": 1669577064531
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Hole superconductivity xOr hot hydride superconductivity"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1063/5.0071158",
+                          "external-id-normalized": {
+                            "value": "10.1063/5.0071158",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1063/5.0071158"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1063/5.0071158"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2021"
+                      },
+                      "month": {
+                        "value": "11"
+                      },
+                      "day": {
+                        "value": "14"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Journal of Applied Physics"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627936",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577063823
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.21203/rs.3.rs-1001084/v1",
+                      "external-id-normalized": {
+                        "value": "10.21203/rs.3.rs-1001084/v1",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.21203/rs.3.rs-1001084/v1"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627935,
+                    "created-date": {
+                      "value": 1669577063823
+                    },
+                    "last-modified-date": {
+                      "value": 1669577063823
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Clear evidence against superconductivity in hydrides under high pressure"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.21203/rs.3.rs-1001084/v1",
+                          "external-id-normalized": {
+                            "value": "10.21203/rs.3.rs-1001084/v1",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.21203/rs.3.rs-1001084/v1"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.21203/rs.3.rs-1001084/v1"
+                    },
+                    "type": "preprint",
+                    "publication-date": {
+                      "year": {
+                        "value": "2021"
+                      },
+                      "month": {
+                        "value": "10"
+                      },
+                      "day": {
+                        "value": "26"
+                      }
+                    },
+                    "journal-title": null,
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627935",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577063216
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1038/s41586-021-03595-z",
+                      "external-id-normalized": {
+                        "value": "10.1038/s41586-021-03595-z",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1038/s41586-021-03595-z"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627934,
+                    "created-date": {
+                      "value": 1669577063216
+                    },
+                    "last-modified-date": {
+                      "value": 1669577063216
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Unusual width of the superconducting transition in a hydride"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1038/s41586-021-03595-z",
+                          "external-id-normalized": {
+                            "value": "10.1038/s41586-021-03595-z",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1038/s41586-021-03595-z"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1038/s41586-021-03595-z"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2021"
+                      },
+                      "month": {
+                        "value": "08"
+                      },
+                      "day": {
+                        "value": "26"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Nature"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627934",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577062994
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1142/S0217984920503005",
+                      "external-id-normalized": {
+                        "value": "10.1142/s0217984920503005",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1142/S0217984920503005"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627933,
+                    "created-date": {
+                      "value": 1669577062994
+                    },
+                    "last-modified-date": {
+                      "value": 1669577062994
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "How Alfven’s theorem explains the Meissner effect"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1142/S0217984920503005",
+                          "external-id-normalized": {
+                            "value": "10.1142/s0217984920503005",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1142/S0217984920503005"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1142/S0217984920503005"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2020"
+                      },
+                      "month": {
+                        "value": "09"
+                      },
+                      "day": {
+                        "value": "30"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "Modern Physics Letters B"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627933",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577062162
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1142/S0217979220501751",
+                      "external-id-normalized": {
+                        "value": "10.1142/s0217979220501751",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1142/S0217979220501751"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627931,
+                    "created-date": {
+                      "value": 1669577062162
+                    },
+                    "last-modified-date": {
+                      "value": 1669577062162
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Thermodynamic inconsistency of the conventional theory of superconductivity"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1142/S0217979220501751",
+                          "external-id-normalized": {
+                            "value": "10.1142/s0217979220501751",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1142/S0217979220501751"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1142/S0217979220501751"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2020"
+                      },
+                      "month": {
+                        "value": "07"
+                      },
+                      "day": {
+                        "value": "30"
+                      }
+                    },
+                    "journal-title": {
+                      "value": "International Journal of Modern Physics B"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627931",
+                    "display-index": "0"
+                  }
+                ]
+              },
+              {
+                "last-modified-date": {
+                  "value": 1669577061467
+                },
+                "external-ids": {
+                  "external-id": [
+                    {
+                      "external-id-type": "doi",
+                      "external-id-value": "10.1002/andp.201900212",
+                      "external-id-normalized": {
+                        "value": "10.1002/andp.201900212",
+                        "transient": true
+                      },
+                      "external-id-normalized-error": null,
+                      "external-id-url": {
+                        "value": "https://doi.org/10.1002/andp.201900212"
+                      },
+                      "external-id-relationship": "self"
+                    }
+                  ]
+                },
+                "work-summary": [
+                  {
+                    "put-code": 123627930,
+                    "created-date": {
+                      "value": 1669577061467
+                    },
+                    "last-modified-date": {
+                      "value": 1669577061467
+                    },
+                    "source": {
+                      "source-orcid": null,
+                      "source-client-id": {
+                        "uri": "https://orcid.org/client/0000-0001-9884-1913",
+                        "path": "0000-0001-9884-1913",
+                        "host": "orcid.org"
+                      },
+                      "source-name": {
+                        "value": "Crossref"
+                      },
+                      "assertion-origin-orcid": null,
+                      "assertion-origin-client-id": null,
+                      "assertion-origin-name": null
+                    },
+                    "title": {
+                      "title": {
+                        "value": "Defying Inertia: How Rotating Superconductors Generate Magnetic Fields"
+                      },
+                      "subtitle": null,
+                      "translated-title": null
+                    },
+                    "external-ids": {
+                      "external-id": [
+                        {
+                          "external-id-type": "doi",
+                          "external-id-value": "10.1002/andp.201900212",
+                          "external-id-normalized": {
+                            "value": "10.1002/andp.201900212",
+                            "transient": true
+                          },
+                          "external-id-normalized-error": null,
+                          "external-id-url": {
+                            "value": "https://doi.org/10.1002/andp.201900212"
+                          },
+                          "external-id-relationship": "self"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "value": "https://doi.org/10.1002/andp.201900212"
+                    },
+                    "type": "journal-article",
+                    "publication-date": {
+                      "year": {
+                        "value": "2019"
+                      },
+                      "month": {
+                        "value": "10"
+                      },
+                      "day": null
+                    },
+                    "journal-title": {
+                      "value": "Annalen der Physik"
+                    },
+                    "visibility": "public",
+                    "path": "/0000-0001-7175-3497/work/123627930",
+                    "display-index": "0"
+                  }
+                ]
+              }
+            ],
+            "path": "/0000-0001-7175-3497/works"
+          },
+          "path": "/0000-0001-7175-3497/activities"
+        },
+        "path": "/0000-0001-7175-3497"
+      }
+    }
+  ]
+}

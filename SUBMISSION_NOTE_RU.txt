@@ -1,0 +1,4 @@
+Задание по наукометрии выполнено: учебный отчёт и работающий агрегатор библиографических данных.
+GitHub: https://github.com/thinganother675-lab/rgau-lesson-1
+Основной отчёт: https://github.com/thinganother675-lab/rgau-lesson-1/blob/main/REPORT_RU.md
+Архив rgau-lesson-1-submission.zip содержит версию для загрузки на общий диск; после распаковки откройте START_HERE.md.
