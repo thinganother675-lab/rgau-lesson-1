@@ -4,6 +4,8 @@
 
 ## Что выполнено по заданию
 
+Актуализация **30.09.2026**: [реальные требования и пробелы](ASSIGNMENT_RECONSTRUCTION_RU.md), [ответ на занятии](CLASS_TODAY_RU.md), [демонстрация за пять минут](DEMO_CHECKLIST_RU.md), [статус eLIBRARY](ELIBRARY_STATUS_RU.md), [Web of Science](docs/WEB_OF_SCIENCE_RU.md). Тема статьи: [выбранный план](SELECTED_ARTICLE_TOPIC_RU.md), [10 вариантов](ARTICLE_TOPICS_RU.md), [3 мини-проекта](ARTICLE_TOP3_PROPOSALS_RU.md), [литература и данные](LITERATURE_REVIEW_RU.md), [карта технических интересов](PERSONAL_RESEARCH_MAP_RU.md). Свежая проверка: [VALIDATION_2026_09_30.md](VALIDATION_2026_09_30.md). Авторизация eLIBRARY и новый аграрный эксперимент не выполнены; агрегатор сохранён.
+
 | Тема | Результат |
 |---|---|
 | РИНЦ / eLIBRARY | Исследованы различия и доступ; реализован импорт разрешённых выгрузок. Прямой договорный API не проверен. |

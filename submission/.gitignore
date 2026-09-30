@@ -16,4 +16,5 @@ data/test-temp*/
 data/pytest-local/
 data/qa_spreadsheets/
 node_modules/
+data/validation-20260930/
 data/*.log

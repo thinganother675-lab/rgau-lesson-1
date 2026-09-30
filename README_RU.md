@@ -1,5 +1,7 @@
 # SciAgg RU — агрегатор научной библиографии
 
+Материалы занятия 30.09.2026: [краткий ответ](CLASS_TODAY_RU.md), [демонстрация](DEMO_CHECKLIST_RU.md), [требования](ASSIGNMENT_RECONSTRUCTION_RU.md), [план статьи](SELECTED_ARTICLE_TOPIC_RU.md), [WoS](docs/WEB_OF_SCIENCE_RU.md), [свежая проверка](VALIDATION_2026_09_30.md).
+
 Учебный проект магистратуры по наукометрии: прототип на Python 3.12. Он находит кандидатов в авторы, получает публикации по выбранному идентификатору, объединяет записи по DOI, сохраняет показатели каждого источника отдельно и обогащает журналы по ISSN. Дата исследовательского среза: **10 сентября 2026 года**.
 
 Основной текст для сдачи — [REPORT_RU.md](REPORT_RU.md). Для подготовки к защите — [DEFENSE_CHEATSHEET_RU.md](DEFENSE_CHEATSHEET_RU.md). Библиография — [SOURCES.md](SOURCES.md); подробные ограничения — [RESEARCH_NOTES.md](RESEARCH_NOTES.md).

@@ -1,0 +1,89 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.0,
+      45.0,
+      62.96
+    ]
+  },
+  "properties": {
+    "parameter": {
+      "T2M": {
+        "20250601": 20.96,
+        "20250602": 20.45,
+        "20250603": 22.25,
+        "20250604": 22.68,
+        "20250605": 20.95,
+        "20250606": 22.4,
+        "20250607": 23.83
+      },
+      "T2M_MAX": {
+        "20250601": 27.52,
+        "20250602": 25.84,
+        "20250603": 29.48,
+        "20250604": 29.2,
+        "20250605": 27.41,
+        "20250606": 29.88,
+        "20250607": 31.68
+      },
+      "T2M_MIN": {
+        "20250601": 12.65,
+        "20250602": 15.13,
+        "20250603": 14.53,
+        "20250604": 16.12,
+        "20250605": 14.46,
+        "20250606": 13.89,
+        "20250607": 14.13
+      },
+      "PRECTOTCORR": {
+        "20250601": 0.19,
+        "20250602": 7.35,
+        "20250603": 0.01,
+        "20250604": 0.16,
+        "20250605": 1.56,
+        "20250606": 0.0,
+        "20250607": 0.0
+      }
+    }
+  },
+  "header": {
+    "title": "NASA/POWER Source Native Resolution Daily Data",
+    "api": {
+      "version": "v2.10.0",
+      "name": "POWER Daily API"
+    },
+    "sources": [
+      "MERRA2",
+      "POWER"
+    ],
+    "fill_value": -999.0,
+    "time_standard": "UTC",
+    "start": "20250601",
+    "end": "20250607"
+  },
+  "messages": [],
+  "parameters": {
+    "T2M": {
+      "units": "C",
+      "longname": "Temperature at 2 Meters"
+    },
+    "T2M_MAX": {
+      "units": "C",
+      "longname": "Temperature at 2 Meters Maximum"
+    },
+    "T2M_MIN": {
+      "units": "C",
+      "longname": "Temperature at 2 Meters Minimum"
+    },
+    "PRECTOTCORR": {
+      "units": "mm/day",
+      "longname": "Precipitation Corrected"
+    }
+  },
+  "times": {
+    "data": 0.548,
+    "process": 0.01
+  }
+}

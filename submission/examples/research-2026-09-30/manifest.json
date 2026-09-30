@@ -1,0 +1,29 @@
+{
+  "access_date": "2026-09-30",
+  "items": [
+    {
+      "file": "crossref-agxqa.json",
+      "url": "https://api.crossref.org/works/10.1016/j.compag.2024.109349",
+      "status": 200,
+      "retrieved_at": "2026-09-30T13:08:14.184153+00:00",
+      "sha256": "43987c9392f5d5fd7f2c1d5e0b3c4881f60cfbd19563f83371a60ac496416a20",
+      "representation": "selected metadata"
+    },
+    {
+      "file": "openalex-agxqa.json",
+      "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.compag.2024.109349",
+      "status": 200,
+      "retrieved_at": "2026-09-30T13:08:15.186426+00:00",
+      "sha256": "055178446911f600413ab5a1d5d2aa60e912831a6c62a7a036612aa891d4c0fa",
+      "representation": "selected metadata"
+    },
+    {
+      "file": "nasa-weather-week.json",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M,T2M_MAX,T2M_MIN,PRECTOTCORR&community=AG&longitude=38&latitude=45&start=20250601&end=20250607&format=JSON&time-standard=UTC",
+      "status": 200,
+      "retrieved_at": "2026-09-30T13:08:16.645699+00:00",
+      "sha256": "01e01670870858f2766869568169e6dc5526e7483f94b2102b4329871ec11731",
+      "representation": "public API JSON"
+    }
+  ]
+}

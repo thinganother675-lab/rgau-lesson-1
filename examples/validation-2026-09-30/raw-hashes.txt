@@ -1,0 +1,6 @@
+{
+  "verified": true,
+  "whitelist_sha256": "fa71804337379e196f9635bf0f3c8643a0a9fffd4b2374aeb1aede4826541683",
+  "vak_sha256": "177c13a0f0bb2722e6fb96aaca1ba6f714fcf57784478ddf6bdbce5bacbbb324",
+  "validated_vak_records": 3202
+}
